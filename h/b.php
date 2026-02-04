@@ -12,10 +12,10 @@
 <h1>ประพิณพร สร้อยสุวรรณ(กลอยใจ)</h1>
 
 <?php
-	echo $_SESSION['name'] ."ประพิณพร สร้อยสุวรรณ";
-	echo $_SESSION['nickname'] = "กลอยใจ";
-	echo $_SESSION['p1'] = "โซฟา";
-	echo $_SESSION['p2'] = "ห่วงยาง";
+	$_SESSION['name'] ."ประพิณพร สร้อยสุวรรณ";
+	$_SESSION['nickname'] = "กลอยใจ";
+	$_SESSION['p1'] = "โซฟา";
+	$_SESSION['p1'] = "ห่วงยาง";
 ์?>
 
 </body>
