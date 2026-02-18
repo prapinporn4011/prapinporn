@@ -1,25 +1,28 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-<title> ประพิณพร สร้อยสุวรรณ (กลอยใจ) </title>
+<meta charset="utf-8">
+<title>งาน k - 66010914046 ชญาณี รุ่งนภากานต์ (ตังเม)</title>
 </head>
+
 <body>
-<h1> งาน k ประพิณพร สร้อยสุวรรณ (กลอยใจ)  <br>66010914140 </h1>
-<button onclick="showImage('images/1.jpg', this)" 
-        style="background-color:green; color:white; padding:10px; border:none;">
-    เปิดรูปที่ 1
+
+
+<h1>งาน k - 66010914046 ชญาณี รุ่งนภากานต์ (ตังเม)</h1>
+<br>
+
+
+<button style="background-color:green; color:white;"
+        onclick="window.open('images/1.jpg')">
+    Click
 </button>
 
-<button onclick="showImage('images/2.jpg', this)" 
-        style="background-color:orange; color:white; padding:10px; border:none;">
-    เปิดรูปที่ 2
+<button style="background-color:orange; color:white;"
+        onclick="window.open('images/2.jpg')">
+    Click
 </button>
 
-<script>
-function showImage(imgSrc, btn){
-    btn.innerHTML = "<img src='" + imgSrc + "' width='150'>";
-}
-</script>
-
+                
+          
 </body>
 </html>
