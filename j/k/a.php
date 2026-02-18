@@ -2,23 +2,23 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>งาน k - 66010914046 ชญาณี รุ่งนภากานต์ (ตังเม)</title>
+<title>งาน k -ประพิณพร สร้อยสุวรรณ (กลอยใจ)</title>
 </head>
 
 <body>
 
 
-<h1>งาน k - 66010914046 ชญาณี รุ่งนภากานต์ (ตังเม)</h1>
+<h1>งาน k - ประพิณพร สร้อยสุวรรณ (กลอยใจ)</h1>
 <br>
 
 
 <button style="background-color:green; color:white;"
-        onclick="window.open('images/1.jpg')">
+        onclick="window.open('1.jpg')">
     Click
 </button>
 
 <button style="background-color:orange; color:white;"
-        onclick="window.open('images/2.jpg')">
+        onclick="window.open('2.jpg')">
     Click
 </button>
 
